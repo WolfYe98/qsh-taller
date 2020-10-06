@@ -3,3 +3,4 @@ Init(){
   lines="";
 }
 Init();
+Init();
